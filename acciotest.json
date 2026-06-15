@@ -1,0 +1,4 @@
+{
+    "testRepo": "Majority-Element-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
